@@ -64,3 +64,36 @@ The Iris flower species can be accurately classified using machine learning tech
 ## Author
 
 Jayashree M
+
+Task 2: Unemployment Analysis with Python
+Objective
+
+Analyze unemployment trends in India and study the impact of the COVID-19 pandemic using exploratory data analysis and visualization techniques.
+
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Google Colab
+Analysis Performed
+Data Cleaning
+Null Value Analysis
+Region-wise Unemployment Analysis
+Month-wise Trend Analysis
+Time Series Visualization
+Correlation Heatmap
+Pre-COVID vs Post-COVID Comparison
+Key Insights
+Identified states with the highest unemployment rates.
+Analyzed unemployment trends over time.
+Compared unemployment rates before and after COVID-19.
+Visualized relationships between unemployment rate, employment, and labour participation rate.
+Repository Contents
+JayashreeM_Task1.ipynb
+JayashreeM_Task2.ipynb
+README.md
+Conclusion
+
+This repository contains solutions for the Oasis Infobyte Data Science Internship tasks. The projects demonstrate data analysis, visualization, and machine learning techniques using Python.
